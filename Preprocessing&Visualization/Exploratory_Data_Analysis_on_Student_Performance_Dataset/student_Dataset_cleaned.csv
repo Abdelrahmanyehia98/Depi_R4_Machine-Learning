@@ -1,0 +1,78 @@
+Age,gender,country,residence,entryEXAM,prevEducation,studyHOURS,Python,DB
+44,Female,Norway,Private,72,Masters,158,59.0,55
+60,Male,Kenya,Private,79,Diploma,150,60.0,75
+25,Male,Uganda,Sognsvann,55,High School,130,74.0,50
+22,Female,South Africa,Sognsvann,40,High School,120,75.85333333333334,44
+23,Female,South Africa,Sognsvann,65,High School,122,91.0,80
+25,Female,Norway,BI Residence,66,High School,130,88.0,59
+27,Male,Norway,BI-Residence,90,Bachelors,156,80.0,91
+29,Male,Norway,BIResidence,89,Bachelors,160,85.0,60
+31,Male,Norway,BI Residence,88,Bachelors,156,80.0,89
+33,Female,Denmark,BI_Residence,85,Bachelors,160,83.0,90
+34,Female,Netherlands,BI Residence,65,Bachelors,156,79.0,58
+36,Female,Norway,Private,70,Diploma,156,80.0,55
+38,Male,Norway,Private,91,Diploma,156,85.0,99
+40,Female,Norway,Private,77,Diploma,144,70.0,76
+42,Male,Italy,Private,80,Bachelors,152,75.0,77
+43,Female,Norway,Private,81,Bachelors,156,80.0,82
+45,Female,Norway,Private,85,Bachelors,156,87.0,82
+47,Female,Norway,Private,86,Bachelors,156,80.0,78
+48,Male,Norway,Private,75,Bachelors,148,76.0,73
+50,Female,Norway,Private,95,Masters,160,84.0,90
+22,Male,Norway,BI Residence,45,High School,116,33.0,30
+24,Female,Norway,BI Residence,50,High School,114,30.0,50
+26,Female,Norway,BI Residence,55,High School,140,61.0,56
+28,Female,Spain,BI Residence,78,Bachelors,156,80.0,55
+30,Male,Norway,BI Residence,82,Bachelors,156,82.0,65
+32,Male,Norway,BI Residence,81,Bachelors,158,85.0,83
+35,Female,Norway,BI Residence,92,Masters,160,87.0,88
+37,Female,Uganda,Private,55,Diploma,142,66.0,58
+39,Male,Uganda,Private,80,Bachelors,156,81.0,69
+41,Female,Uganda,Private,86,Bachelors,154,81.0,91
+44,Male,Norway,Private,78,Diploma,152,80.0,79
+46,Male,Norway,Private,76,Diploma,156,85.0,45
+71,Female,Norway,Private,30,Doctorate,120,31.0,42
+23,Male,Norway,BI Residence,68,High School,152,75.85333333333334,70
+25,Female,Norway,BI Residence,98,High School,160,90.0,90
+27,Male,Norway,BI Residence,85,Bachelors,158,84.0,90
+29,Male,Norway,BI Residence,75,Diploma,156,81.0,74
+31,Male,Norway,BI Residence,95,Bachelors,158,87.0,99
+33,Female,Norway,BI Residence,50,Diploma,144,69.0,33
+35,Male,Norway,BI Residence,68,Diploma,136,60.0,78
+37,Female,Norway,Private,45,Bachelors,142,57.0,50
+39,Female,UK,Private,90,Masters,158,85.0,74
+41,Female,Norway,Private,90,Masters,156,80.0,83
+43,Female,Norway,Private,96,Masters,158,87.0,92
+45,Female,Norway,Private,95,Masters,160,88.0,86
+47,Male,Norway,Private,89,Doctorate,160,86.0,60
+22,Female,Norway,BI Residence,78,High School,148,78.0,74
+24,Female,Norway,BI Residence,54,High School,136,57.0,50
+26,Female,Norway,BI Residence,68,High School,124,48.0,62
+28,Male,Norway,BI Residence,69,High School,120,45.0,70
+30,Male,Norway,BI Residence,95,Diploma,160,90.0,89
+32,Female,Somali,BI Residence,82,Bachelors,156,84.0,59
+21,Female,Norway,BI Residence,70,High School,138,69.0,47
+36,Male,Nigeria,Private,28,Diploma,120,15.0,67
+38,Female,Norway,Private,80,Masters,158,84.0,50
+69,Male,Nigeria,Private,94,Doctorate,160,87.0,88
+42,Male,Norway,Private,91,Doctorate,158,84.0,82
+25,Male,Norway,BI Residence,90,High School,156,81.0,100
+46,Female,Norway,Private,94,Doctorate,160,90.0,77
+26,Female,Norway,BI Residence,76,High School,156,84.0,61
+50,Female,Norway,Private,81,Bachelors,158,87.0,46
+22,Female,Norway,BI Residence,73,High School,144,70.0,55
+23,Female,Norway,BI Residence,90,High School,160,87.0,73
+25,Female,Norway,BI Residence,81,High School,158,85.0,46
+27,Male,Kenya,Sognsvann,85,Bachelors,156,84.0,68
+29,Male,Kenya,Sognsvann,83,Bachelors,156,81.0,67
+31,Female,Germany,Sognsvann,89,Masters,160,87.0,61
+33,Male,Germany,Sognsvann,98,Masters,160,87.0,86
+35,Female,France,Sognsvann,69,Bachelors,144,69.0,45
+37,Male,Spain,Private,80,Bachelors,152,78.0,62
+39,Female,Netherlands,Private,81,Masters,160,80.0,71
+50,Male,Italy,Private,74,Masters,140,63.0,60
+43,Female,France,Private,80,Bachelors,150,75.0,43
+31,Male,Denmark,Sognsvann,90,Masters,158,84.0,83
+33,Female,UK,Sognsvann,96,Masters,158,85.0,90
+35,Male,Germany,Sognsvann,90,Masters,160,87.0,74
+31,Male,Somali,Sognsvann,35,Masters,144,72.0,90
